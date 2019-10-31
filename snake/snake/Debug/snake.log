@@ -1,0 +1,10 @@
+﻿  snake.cpp
+h:\c语言\snake\snake\snake\snake.cpp(545): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          j:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+h:\c语言\snake\snake\snake\snake.cpp(565): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          j:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+h:\c语言\snake\snake\snake\snake.cpp(566): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          j:\vs2012\vc\include\stdio.h(237) : 参见“fscanf”的声明
+h:\c语言\snake\snake\snake\snake.cpp(574): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          j:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+  snake.vcxproj -> H:\c语言\Snake\snake\Debug\snake.exe
